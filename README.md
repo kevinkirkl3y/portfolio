@@ -11,6 +11,23 @@ _This page is to act as virtual portfolio for the work of Kevin Kirkley. The tit
 ## Setup/Installation Requirements
 
 * _Open Browser_
-* _Follow link to [Portfolio]()_
+* _Follow link to [Portfolio](https://github.com/kevinkirkl3y/portfolio.git)_
 * _View_
 * _Click on hyperlinks attached to recent projects' headers to view projects in GitHub._
+* _Click on hyperlinks in Background information section to view previous employers and educational institutions._
+
+## Known Bugs
+
+* _Image in top-left corner of the screen is forcing centered-text to the right. No known workarounds at this time._
+
+## Support and contact detail
+
+_Contact Kevin Kirkley at [kevinmkirkley@gmail.com](mailto:kevinmkirkley@gmail.com) with and questions, concerns or addtions._
+
+## Technologies Used 
+
+* _HTML_
+* _CSS_
+* _Bootstrap_
+* _Markdown_
+* _Git_
