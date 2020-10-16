@@ -31,3 +31,8 @@ _Contact Kevin Kirkley at [kevinmkirkley@gmail.com](mailto:kevinmkirkley@gmail.c
 * _Bootstrap_
 * _Markdown_
 * _Git_
+
+### License
+
+Copyright (c) 2020 **_Kevin Kirkley_**
+This software is licensed under the MIT license. 
