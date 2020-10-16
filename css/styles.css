@@ -2,9 +2,6 @@ body {
   background: rgb(85,157,232);
   background: linear-gradient(0deg, rgba(85,157,232,1) 56%, rgba(83,84,85,1) 100%);
 }
-.text-center{
- 
-}
 .portrait {
   padding: 2rem 1rem;
   margin-bottom: 2rem;
@@ -33,6 +30,12 @@ body {
   text-align: center;
   list-style: none;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h2 {
+  margin: 10px;
+  border: 3px;
+  padding: 20px;
+  background-color: rgba(82, 81, 81, 0.733);
 }
 .proj-goal {
   font-size: 20px;
