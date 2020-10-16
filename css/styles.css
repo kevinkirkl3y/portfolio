@@ -1,6 +1,10 @@
+body {
+  background: rgb(85,157,232);
+  background: linear-gradient(0deg, rgba(85,157,232,1) 56%, rgba(83,84,85,1) 100%);
+}
+
 .project-info-text {
-  font-size: 10px;
-  
+  font-size: 10px; 
 }
 .jumbotron {
   background: rgb(85,85,83);
@@ -26,4 +30,7 @@
 .interests {
   color: goldenrod;
   font-weight: bolder;
+}
+.recent-projects {
+  float: left:
 }
