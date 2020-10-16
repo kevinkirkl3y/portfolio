@@ -1,4 +1,7 @@
-
+.project-info-text {
+  font-size: 10px;
+  
+}
 .jumbotron {
   background: rgb(85,85,83);
   background: linear-gradient(0deg, rgba(85,85,83,0.6379326923076922) 0%, rgba(160,200,242,0.7733173076923077) 100%);
