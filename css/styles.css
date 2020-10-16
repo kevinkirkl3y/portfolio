@@ -3,7 +3,10 @@
 }
 .contact-info {
   display: block;
-  text-align: left;
+  text-align: center;
   list-style: none;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.background-info {
+  float: left;
 }
