@@ -2,7 +2,14 @@ body {
   background: rgb(85,157,232);
   background: linear-gradient(0deg, rgba(85,157,232,1) 56%, rgba(83,84,85,1) 100%);
 }
-
+.text-center{
+ 
+}
+.portrait {
+  padding: 2rem 1rem;
+  margin-bottom: 2rem;
+  border-radius: 0.4rem;
+}
 .project-info-text {
   font-size: 10px; 
 }
@@ -14,6 +21,10 @@ body {
   padding-left: 30px;
   padding-right: 30px;
 }
+.card-body {
+  background: rgb(85,85,83);
+  background: linear-gradient(0deg, rgba(85,85,83,0.6379326923076922) 0%, rgba(160,200,242,0.7733173076923077) 100%);
+}
 .contact {
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
 }
@@ -22,6 +33,9 @@ body {
   text-align: center;
   list-style: none;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.proj-goal {
+  font-size: 20px;
 }
 .att-author {
   list-style: none;
@@ -33,4 +47,10 @@ body {
 }
 .recent-projects {
   float: left:
+}
+.card-text {
+  font-size: 20px;
+}
+.background-text {
+  font-size: 20px;
 }
