@@ -31,6 +31,15 @@ body {
   list-style: none;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+.card-text {
+  list-style: none;
+}
+ul {
+  text-align: left;
+}
+li {
+  text-align: left;
+}
 h2 {
   margin: 10px;
   border: 3px;
@@ -49,10 +58,13 @@ h2 {
   font-weight: bolder;
 }
 .recent-projects {
-  float: left:
+  float: left;
 }
 .card-text {
   font-size: 20px;
+}
+.bio {
+  text-align: left;
 }
 .background-text {
   font-size: 20px;
