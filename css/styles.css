@@ -1,6 +1,6 @@
 body {
-  background: rgb(85,157,232);
-  background: linear-gradient(0deg, rgba(85,157,232,1) 56%, rgba(83,84,85,1) 100%);
+background: rgb(85,157,232);
+background: linear-gradient(0deg, rgba(85,157,232,1) 56%, rgba(83,84,85,1) 100%);
 }
 .portrait {
   padding: 2rem 1rem;
@@ -57,6 +57,12 @@ h2 {
   color: goldenrod;
   font-weight: bolder;
 }
+@media screen and (max-width: 800px) {
+  .recent-projects {
+    float: none;
+    width: 100%;
+  }
+}
 .recent-projects {
   float: left;
 }
@@ -68,4 +74,22 @@ h2 {
 }
 .background-text {
   font-size: 20px;
+}
+.row { 
+  flex: 25%;
+  padding: 20px;
+}
+.col {
+  flex: 25%;
+  padding: 20px:
+}
+@media screen and (max-width: 800px) {
+  .col {
+    flex: 50%;
+  }
+}
+@media screen and (max-width: 600px) {
+  .row {
+    flex-direction: column;
+  }
 }
