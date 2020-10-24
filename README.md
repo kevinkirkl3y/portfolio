@@ -10,11 +10,21 @@ _This page is to act as virtual portfolio for the work of Kevin Kirkley. The tit
 
 ## Setup/Installation Requirements
 
-* _Open Browser_
-* _Follow link to [Portfolio](https://github.com/kevinkirkl3y/portfolio.git)_
-* _View_
-* _Click on hyperlinks attached to recent projects' headers to view projects in GitHub._
-* _Click on hyperlinks in Background information section to view previous employers and educational institutions._
+Software Requirements
+1. Internet Browser (Google Chrome is recommended)
+2. A code editior such as VSCode in order to view or edit codebase.
+
+Open by downloading:
+1. Download the [repository](https://github.com/kevinkirkl3y/portfolio.git) onto your computer by clicking the 'clone or download' button.
+2. Double click the index.html to open it within your browser.
+
+Open with Bash/GitBash:
+1. Clone this repository onto your computer: Type 'git clone https://github.com/kevinkirkl3y/portfolio.git' in your terminal. 
+2. Navigate into the "portfolio' directory and open in VSCode or preffered text editor using 'code .' in your terminal. 
+3. Open index.html in your browser (Google Chrome is recommended).
+
+View my live website here:
+[Portfolio](kevinkirkl3y.github.io/portfolio)
 
 ## Known Bugs
 
